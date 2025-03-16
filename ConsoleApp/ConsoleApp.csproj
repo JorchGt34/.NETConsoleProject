@@ -1,0 +1,17 @@
+﻿<!--Este es un archivo XML que usa etiquetas-->
+<Project Sdk="Microsoft.NET.Sdk"> <!--El SDK varia segun el proyecto, 
+ya que esta linea determina las librerias que se usaran segun el tipo 
+de proyecto que se este realizando-->
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType> <!--Esta linea representa el resultado que da el proyecto-->
+    <TargetFramework>net9.0</TargetFramework><!--Aqui se muestra la version el proyecto-->
+    <ImplicitUsings>enable</ImplicitUsings><!--Es una opcion para no tener que importar librerias nuevas -->
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Humanizer" Version="3.0.0-beta.54" />
+  </ItemGroup>
+
+</Project>

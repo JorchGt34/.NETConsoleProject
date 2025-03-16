@@ -1,0 +1,15 @@
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/bin/release/net9.0/ConsoleApp
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/bin/release/net9.0/ConsoleApp.deps.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/bin/release/net9.0/ConsoleApp.runtimeconfig.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/bin/release/net9.0/ConsoleApp.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/bin/release/net9.0/ConsoleApp.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/obj/release/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/obj/release/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/obj/release/net9.0/ConsoleApp.AssemblyInfo.cs
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/obj/release/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/obj/release/net9.0/ConsoleApp.sourcelink.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/obj/release/net9.0/ConsoleApp.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/obj/release/net9.0/refint/ConsoleApp.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/obj/release/net9.0/ConsoleApp.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/obj/release/net9.0/ConsoleApp.genruntimeconfig.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/dotNET/ConsoleApp/obj/release/net9.0/ref/ConsoleApp.dll
